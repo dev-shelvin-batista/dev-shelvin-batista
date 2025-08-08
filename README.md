@@ -12,7 +12,7 @@ I'm Shelvin Batista. I've obtained a degree in Systems Engineering and worked fo
 Here are some of the main technologies and tools that I work with:
 
 <p align="left">
-  <a href="https://github.com/zarfadev"><img src="https://skillicons.dev/icons?i=angular,ts,js,java,css,docker,aws,bash,bitbucket,bootstrap,cs,django,dynamodb,express,figma,git,github,gitlab,html,htmx,jenkins,jquery,laravel,kubernetes,less,linux,md,maven,mongodb,mysql,nestjs,nginx,nodejs,npm,php,postgres,postman,powershell,py,rabbitmq,react,redux,sass,sqlite,stackoverflow,svelte,svg,ubuntu,vscode,vue"></a>
+  <a href="https://github.com/dev-shelvin-batista"><img src="https://skillicons.dev/icons?i=angular,ts,js,java,css,docker,aws,bash,bitbucket,bootstrap,cs,django,dynamodb,express,figma,git,github,gitlab,html,htmx,jenkins,jquery,laravel,kubernetes,less,linux,md,maven,mongodb,mysql,nestjs,nginx,nodejs,npm,php,postgres,postman,powershell,py,rabbitmq,react,redux,sass,sqlite,stackoverflow,svelte,svg,ubuntu,vscode,vue"></a>
 </p>
 
 ### 🧰 Additional Tools & Skills
@@ -26,7 +26,7 @@ Here are some of the main technologies and tools that I work with:
 - **API Development:** REST, Express.js
 - **Security:** JWT, OAuth
 - **Design:** Figma
-- **Other:** Compodoc, ginx, NPM, Postman, Linux
+- **Other:** Compodoc, NPM, Postman, Linux
 
 <div style="display:flex; justify-content:center;">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=dev-shelvin-batista&theme=github_dark" />

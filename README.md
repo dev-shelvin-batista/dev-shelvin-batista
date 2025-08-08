@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Shelvin Batista. I've obtained a degree in Systems Engineering and worked for almost 10 years as a software developer in different programming languages
+I'm Shelvin Batista. I've obtained a degree in Systems Engineering and worked for 9 years as a software developer in different programming languages
 
 ## 🚀 About me
 - Experienced senior developer offering expertise in reviewing code and correcting issues. Several-years of progressive industry experience marked by solid track record of project success. 

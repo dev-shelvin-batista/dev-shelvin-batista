@@ -1,8 +1,11 @@
 ## Hi there 👋
-I'm Shelvin Batista. I've obtained a degree in Systems Engineering and worked for 9 years as a software developer in different programming languages
+I'm Shelvin Batista. I've obtained a degree in Systems Engineering and worked for 9 years as a software developer in different programming languages.
 
 ## 🚀 About me
-- Experienced senior developer offering expertise in reviewing code and correcting issues. Several-years of progressive industry experience marked by solid track record of project success. 
+
+I'm a passionate developer dedicated to building innovative and high-impact technological solutions.
+
+- Experienced senior developer offering expertise in reviewing code and correcting issues. With over 9 years of progressive industry experience marked by solid track record of project success. 
 - Innovative Senior Developer known for high productivity and efficient task completion. Specialize in software architecture, cloud computing, and database management. Excel at problem-solving, teamwork, and adaptability, ensuring smooth project delivery and effective collaboration with diverse teams. 
 - Talented Software Developer equipped with great coding, debugging and project management abilities. 
 - Accomplishes project goals consistently with elegant, scalable code. Works great with team members under Agile and Scrum frameworks.

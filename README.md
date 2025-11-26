@@ -31,10 +31,10 @@ Here are some of the main technologies and tools that I work with:
 - **Design:** Figma
 - **Other:** Compodoc, NPM, Postman, Linux
 
-<div style="display:flex; justify-content:center;">
+<!--<div style="display:flex; justify-content:center;">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=dev-shelvin-batista&theme=github_dark&show_icons=true" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-shelvin-batista&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
-</div>
+</div>-->
 
 
 ## 💬 Contact 
